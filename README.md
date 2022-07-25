@@ -30,3 +30,11 @@ Most popular packages for state management in flutter.
 - Less community support and tutorials.
 - <a href="https://pub.dev/packages/mobx">Package</a>
 - <a href="https://mobx.netlify.app/">Documentation</a>
+
+## Provider
+- One of the most famous state management library.
+- Easy to understand than bloc.
+- Support by flutter team.
+- <a href="https://pub.dev/packages/provider">Package</a>
+- <a href="https://pub.dev/documentation/provider/latest/provider/provider-library.html">Documentation</a>
+
