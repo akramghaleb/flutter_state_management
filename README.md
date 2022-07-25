@@ -24,4 +24,4 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/get">Package</a>
 - <a href="https://chornthorn.github.io/getx-docs/index">Documentation</a>
 
-## 
+
