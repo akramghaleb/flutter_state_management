@@ -5,7 +5,7 @@ Most popular packages for state management in flutter.
 - [X] One of the most famous state management library.
 - [X] Code is well structured and good for large-scale project.
 - [X] Well written documentation with example.
-- [] Complex for new developers.
+- [ ] Complex for new developers.
 - <a href="https://pub.dev/packages/flutter_bloc">Package</a>
 - <a href="https://bloclibrary.dev/#/gettingstarted">Documentation</a>
 
@@ -20,14 +20,14 @@ Most popular packages for state management in flutter.
 - [X] A simplified reactive state management solution.
 - [X] Easy for new flutter developers.
 - [X] Code is very short.
-- [] Hard to maintain large-scale projects.
+- [ ] Hard to maintain large-scale projects.
 - <a href="https://pub.dev/packages/get">Package</a>
 - <a href="https://chornthorn.github.io/getx-docs/index">Documentation</a>
 
 ## MobX
 - [X] A popular library based on observables and reactions.
 - [X] Code is very simple and easy for new flutter developers.
-- [] Less community support and tutorials.
+- [ ] Less community support and tutorials.
 - <a href="https://pub.dev/packages/mobx">Package</a>
 - <a href="https://mobx.netlify.app/">Documentation</a>
 
@@ -40,19 +40,19 @@ Most popular packages for state management in flutter.
 
 ## Redux
 - [X] A state container approach familiar to many web developers.
-- [] Less community support and tutorials.
-- [] There is no good documentation availabe.
+- [ ] Less community support and tutorials.
+- [ ] There is no good documentation availabe.
 - <a href="https://pub.dev/packages/flutter_redux">Package</a>
 - <a href="https://pub.dev/documentation/redux/latest/">Documentation</a>
 
 ## states_rebuilder 
 - [X] An approach that combines state management with dependency injection solution and an integrated router.
-- [] Less community support and tutorials.
+- [ ] Less community support and tutorials.
 - <a href="https://pub.dev/packages/states_rebuilder">Package</a>
 - <a href="https://github.com/GIfatahTH/states_rebuilder/tree/master/states_rebuilder_package">Documentation</a>
 
 ## GetIt
 - [X] A service locator based state management approach that does not need a BuildContext.
-- [] There is no good documentation availabe.
+- [ ] There is no good documentation availabe.
 - <a href="https://pub.dev/packages/get_it">Package</a>
 - <a href="https://pub.dev/documentation/get_it/latest/">Documentation</a>
