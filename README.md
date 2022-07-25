@@ -45,3 +45,9 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/flutter_redux">Package</a>
 - <a href="https://pub.dev/documentation/redux/latest/">Documentation</a>
 
+## states_rebuilder 
+- An approach that combines state management with dependency injection solution and an integrated router.
+- Less community support and tutorials.
+- <a href="https://pub.dev/packages/states_rebuilder">Package</a>
+- <a href="https://github.com/GIfatahTH/states_rebuilder/tree/master/states_rebuilder_package">Documentation</a>
+
