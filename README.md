@@ -51,3 +51,8 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/states_rebuilder">Package</a>
 - <a href="https://github.com/GIfatahTH/states_rebuilder/tree/master/states_rebuilder_package">Documentation</a>
 
+## GetIt
+- A service locator based state management approach that does not need a BuildContext.
+- There is no good documentation availabe.
+- <a href="https://pub.dev/packages/get_it">Package</a>
+- <a href="https://pub.dev/documentation/get_it/latest/">Documentation</a>
