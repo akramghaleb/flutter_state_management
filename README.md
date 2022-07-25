@@ -16,3 +16,12 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/riverpod">Package</a>
 - <a href="https://riverpod.dev/docs/getting_started">Documentation</a>
 
+## GetX
+- A simplified reactive state management solution.
+- Easy for new flutter developers.
+- Code is very short.
+- Hard to maintain large-scale projects.
+- <a href="https://pub.dev/packages/get">Package</a>
+- <a href="https://chornthorn.github.io/getx-docs/index">Documentation</a>
+
+## 
