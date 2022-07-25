@@ -38,3 +38,10 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/provider">Package</a>
 - <a href="https://pub.dev/documentation/provider/latest/provider/provider-library.html">Documentation</a>
 
+## Redux
+- A state container approach familiar to many web developers.
+- Less community support and tutorials.
+- There is no good documentation availabe.
+- <a href="https://pub.dev/packages/flutter_redux">Package</a>
+- <a href="https://pub.dev/documentation/redux/latest/">Documentation</a>
+
