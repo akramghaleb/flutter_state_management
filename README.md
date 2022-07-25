@@ -24,4 +24,9 @@ Most popular packages for state management in flutter.
 - <a href="https://pub.dev/packages/get">Package</a>
 - <a href="https://chornthorn.github.io/getx-docs/index">Documentation</a>
 
-
+## MobX
+- A popular library based on observables and reactions.
+- Code is very simple and easy for new flutter developers.
+- Less community support and tutorials.
+- <a href="https://pub.dev/packages/mobx">Package</a>
+- <a href="https://mobx.netlify.app/">Documentation</a>
